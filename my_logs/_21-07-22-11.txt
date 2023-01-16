@@ -1,0 +1,235 @@
+11:27:14
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0125
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=k2a5ej0o0n21jpragfmtel0k49b9b9ch	 || 	
+GET      : n=&c=
+
+11:27:15
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.008
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=k2a5ej0o0n21jpragfmtel0k49b9b9ch	 || 	
+GET      : n=&c=
+
+11:27:15
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0129
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=k2a5ej0o0n21jpragfmtel0k49b9b9ch	 || 	
+GET      : n=&c=
+
+11:27:15
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0123
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=k2a5ej0o0n21jpragfmtel0k49b9b9ch	 || 	
+GET      : n=&c=
+
+11:27:55
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0101
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=k2a5ej0o0n21jpragfmtel0k49b9b9ch	 || 	
+GET      : n=&c=
+
+11:27:55
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0056
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+
+11:27:55
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0047
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+
+11:27:55
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.006
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+
+11:28:33
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0094
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+
+11:28:33
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0088
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+
+11:28:33
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0122
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+
+11:28:58
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0154
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+Responce : Array
+
+11:28:58
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0131
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+Responce : Array
+
+11:28:59
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0064
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+Responce : Array
+
+11:29:00
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0166
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+Responce : Array
+
+11:30:06
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0078
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+Responce : Array
+
+11:30:07
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0085
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+Responce : Array
+
+11:30:07
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0077
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+Responce : Array
+
+11:30:07
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0066
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+Responce : Array
+
+11:30:11
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0175
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+Responce : Array
+
+11:30:12
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0051
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+Responce : Array
+
+11:30:12
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0099
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+Responce : Array
+
+11:30:12
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0061
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+
+11:30:17
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0134
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=7a3fbumo0abhumf52visu5gilklhj8jo	 || 	
+GET      : n=&c=
+
+11:37:31
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0062
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=8khps35tpuici84345n730det7rv0shn	 || 	
+GET      : n=&c=
+
+11:37:31
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0082
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=8khps35tpuici84345n730det7rv0shn	 || 	
+GET      : n=&c=
+
+11:37:31
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0147
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=8khps35tpuici84345n730det7rv0shn	 || 	
+GET      : n=&c=
+
+11:37:31
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0052
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=8khps35tpuici84345n730det7rv0shn	 || 	
+GET      : n=&c=
+
+11:37:32
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0092
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=8khps35tpuici84345n730det7rv0shn	 || 	
+GET      : n=&c=
+
+11:37:40
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0059
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=8khps35tpuici84345n730det7rv0shn	 || 	
+GET      : n=&c=
+
+11:37:41
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=
+Execute(Time)      : 0.0231
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	Pragma: no-cache	 || 	Cache-Control: no-cache	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: same-origin	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Referer: http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=8khps35tpuici84345n730det7rv0shn	 || 	
+GET      : n=&c=
+
+11:37:44
+======================================================================================================================================
+URL      : http://localhost/Petadopion/admin/Pets_detailes/view?n=&c=ccc
+Execute(Time)      : 0.0074
+HEADER   : Host: localhost	 || 	Connection: keep-alive	 || 	sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"	 || 	sec-ch-ua-mobile: ?0	 || 	sec-ch-ua-platform: "Windows"	 || 	Upgrade-Insecure-Requests: 1	 || 	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36	 || 	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9	 || 	Sec-Fetch-Site: none	 || 	Sec-Fetch-Mode: navigate	 || 	Sec-Fetch-User: ?1	 || 	Sec-Fetch-Dest: document	 || 	Accept-Encoding: gzip, deflate, br	 || 	Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,gu;q=0.5	 || 	Cookie: videostatus_auth=%7B%22user_type%22%3A%22admin%22%7D; auth=%7B%22user_type%22%3A%22admin%22%7D; cisession=m7bnlhecc52capg13fu9i8pgd983fvdt; ci_session=8khps35tpuici84345n730det7rv0shn	 || 	
+GET      : n=&c=ccc
+
